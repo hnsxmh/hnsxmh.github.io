@@ -12,16 +12,16 @@ sass:
 
 # Social icons
 show_social_icons: true
-linkedin_username: joey-yu-3616961a8
-github_username: goplusgo
+linkedin_username: Minhao Xu
+github_username: hnsxmh
 
 # plugins
 plugins: [jekyll-paginate]
 paginate: 4
 
 # Sidebar
-sidebar-avatar: /assets/images/avatar.jpg
-sidebar-about-description: "Senior Software Engineer<br>Splunk, Vancouver, BC"
+sidebar-avatar: /assets/images/hasenoch.jpg
+sidebar-about-description: "CFDer<br>Shanghai, China"
 
 # this section is copied from: https://github.com/Huxpro/huxpro.github.io
 # Featured Tags
