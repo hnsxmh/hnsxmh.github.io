@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Personal blog website boilerplate
 
-You can use the [editor on GitHub](https://github.com/hnsxmh/hnsxmh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Demo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[View Joey's Blog Demo](https://boilerplate.blog.goplusgo.me)
 
-### Markdown
+## Jekyll Blog with Bootstrap 4 and Sass
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Creating a Jekyll Blog with Bootstrap 4 and Sass - Part 1](https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-1/)
+* [Creating a Jekyll Blog with Bootstrap 4 and Sass - Part 2](https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-2/)
+* [Creating a Jekyll Blog with Bootstrap 4 and Sass - Part 3](https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-3/)
+* [Creating a Jekyll Blog with Bootstrap 4 and Sass - Part 4](https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-4/)
+* [Creating a Jekyll Blog with Bootstrap 4 and Sass - Part 5](https://experimentingwithcode.com/creating-a-jekyll-blog-with-bootstrap-4-and-sass-part-5/)
 
-```markdown
-Syntax highlighted code block
+## Rake
 
-# Header 1
-## Header 2
-### Header 3
+After using the [Rake](https://github.com/ruby/rake) tool, now it's much easier to create new post. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+rake post title="Create post using rake" subtitle="I am testing rake post command"
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Comments
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hnsxmh/hnsxmh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This blog integrates Disqus as the commenting system, see [Disqus](https://disqus.com) for more details.
