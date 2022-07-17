@@ -153,7 +153,7 @@ gitalk:
     # clientID: d2e1cbbd298958076462
     # clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
     owner: hnsxmh
-    repo: blog
+    repo: hnsxmh.github.io
     clientID: bb5b3de8d073a072f2e6
     clientSecret: 36b219a883bd7b5adc200070c895752f1bcfcc38
 # utterances 配置参考：https://utteranc.es/
