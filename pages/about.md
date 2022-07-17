@@ -13,7 +13,7 @@ I'm a CFDer。
 ## 联系
 
 <ul>
-% for website in site.data.social %}
+{% for website in site.data.social %}
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
 {% endfor %}
 </ul>
